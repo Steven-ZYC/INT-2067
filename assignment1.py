@@ -1,9 +1,5 @@
 """
-thank you prof.Chan!
 I am too tired to give any comment to explain my code ;)
-Hope it does not matter :)
-"""
-"""
 This is the version 2. Features as below:
 1.Added more user interact words to improve the experience of playing the game.
 2.Added error prompt in came user input letters except "f,g,c,m,q"
